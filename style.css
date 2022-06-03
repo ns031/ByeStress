@@ -9,7 +9,7 @@ nav{
 }
 body{
      margin: 0%;
-     background-color: rgb(8, 122, 119);
+     background-color: rgb(16, 101, 98);
 }
 h1{
     color: rgb(134, 246, 248);
@@ -26,7 +26,7 @@ p{
 }
 div{
     margin: 8vh 8vw;
-    background-color: rgba(7, 87, 84, 1);
+    background-color: rgb(13, 63, 62);
 }
 .method1, .method2{
     text-align: center;

@@ -1,5 +1,5 @@
 body{
-    background-color: rgb(23, 68, 164);
+    background-color: rgb(15, 45, 98);
     font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
     font-size: large;
 }
@@ -10,12 +10,12 @@ body{
 }
 .B1, .B2, .B3, .B4, .B5, .B6, .B7, .B8, .B9{
     margin: 5%;
-    background-color: rgb(7, 31, 138);
+    background-color:rgb(10, 36, 80);
     padding: 0px 0px 30px 0px;
     text-align: center;
-    box-shadow: 5px 5px 4px rgb(11, 11, 123);
+    box-shadow: 5px 5px 4px rgb(5, 28, 66);
 }
 h2{
-    color: rgb(221, 234, 246);
+    color: rgb(241, 245, 252);
     text-align: center;
 }
