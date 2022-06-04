@@ -23,10 +23,11 @@ p{
 .container{
     display: flex;
     flex-direction: row;
+    border: 2px solid rgb(6, 65, 63);
 }
 div{
     margin: 8vh 8vw;
-    background-color: rgb(13, 63, 62);
+    background-color: rgb(16, 73, 73);
 }
 .method1, .method2{
     text-align: center;
@@ -39,7 +40,7 @@ button{
     font-weight: 500;
     border: 1px solid rgb(44, 177, 173);
     transition: width 0s height 0s;
-    animation: bounce 0.5s ease-out 0s ;
+    box-shadow: 3px 3px 3px rgb(3, 51, 50);
 }
 button:hover{
     width: 100px;
