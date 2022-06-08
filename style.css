@@ -10,6 +10,7 @@ nav{
 body{
      margin: 0%;
      background-color: rgb(8, 122, 119);
+     overflow: hidden;
 }
 h1{
     color: rgb(134, 246, 248);
@@ -24,9 +25,10 @@ p{
     display: flex;
     flex-direction: row;
     border: 2px solid black;
+    
 }
 div{
-    margin: 8vh 8vw;
+    margin: 7.5vh 8vw;
     background-color: rgb(8, 76, 73);
 }
 .method1, .method2{
